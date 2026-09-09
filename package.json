@@ -1,8 +1,6 @@
 {
-  "name": "cafe-ig-bot",
+  "name": "kafe-instagram-bot",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "vercel dev"
-  }
+  "type": "module"
 }
